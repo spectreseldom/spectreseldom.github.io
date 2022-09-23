@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Bubblegum Sans', cursive;
+    font-family: 'Times New Roman', cursive;
 }
 .header{
     min-height: 100vh;
@@ -69,6 +69,47 @@ nav img {
     font-size: 14px;
     color: #fff;
 }
+.interview{
+    width: 75%;
+    color: red;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: left;
+}
+.interview h1{
+    font-size: 30px;
+    color: red;
+}
+.interview p{
+    font-size: 25px;
+    font-weight: 600;
+}
+.ai{
+    color: black;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+.ai h2{
+    text-align: center;
+    font-size: 40px;
+}
+.ai h5{
+    font-size: 27px;
+    text-align: center;
+}
+.ai h1{
+    text-align: left;
+    font-size: 30px;
+}
+.ai p{
+    font-size: 22px;
+    text-align: left;
+    font-weight: 100;
+}
+.apa{
+    padding-left:36px;
+    text-indent: -36px;
+}
 .hero-btn{
     display: inline-block;
     text-decoration: none;
@@ -127,12 +168,12 @@ nav .fa{
     padding-top: 100px;
 
 }
-h1{
+.course h1{
     font-size: 36px;
     font-weight: 600px;
 }
 
-p{
+.course p{
     color: #777;
     font-size:14px;
     font-weight: 300px;
@@ -154,7 +195,7 @@ p{
     box-sizing: border-box;
     transition: 0.5s;
 }
-h3{
+.course h3{
     text-align: center;
     font-weight: 600;
     margin: 60px 0;
@@ -219,7 +260,12 @@ h3{
     padding: 30px 0;
 }
 .footer h4{
+    text-align:center;
     margin-bottom: 25px;
     margin-top: 20px;
     font-weight: 600;
+}
+.footer p{
+    text-align: center;
+    color: #777;
 }
