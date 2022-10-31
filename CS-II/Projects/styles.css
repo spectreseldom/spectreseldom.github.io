@@ -4,7 +4,7 @@
     font-family: 'Times New Roman', cursive;
 }
 .header{
-    min-height: 75vh;
+    min-height: 50vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXJisPS0oWwWMl_56CZmd8ma7nRV_yGOSWynm3aRP_I6yOoGD9Cz8G45KB8LCRpXoZLyY:https://lh3.googleusercontent.com/0fzKVQR22xrtHqbqxVb--Z_5CxU5VMlgWRggjuO7-KpfVz_Oc8h3peE1Me3FL-k63SL6Z4-m9OYH2MD3r3CXMao_UB4O8JliOKSI%3Dw600&usqp=CAU);
     background-position: center;
