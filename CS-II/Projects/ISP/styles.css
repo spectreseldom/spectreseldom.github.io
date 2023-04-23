@@ -94,6 +94,11 @@ nav img {
     text-align: center;
     font-size: 40px;
 }
+.ai h3{
+    text-align: left;
+    font-size: 25px;
+}
+		    
 .ai h5{
     font-size: 27px;
     text-align: center;
@@ -103,7 +108,7 @@ nav img {
     font-size: 30px;
 }
 .ai p{
-    font-size: 22px;
+    font-size: 20px;
     text-align: left;
     font-weight: 100;
 }
